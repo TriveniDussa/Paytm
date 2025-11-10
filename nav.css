@@ -412,13 +412,15 @@ hr{
 .pic1 img{
     width: 600px;
     height: 600px;
-    margin-left: 57%;
+    margin-left: 10%;
     
 }
 .pic img{
     width: 170px;
-    margin-top: 60%;
-    margin-left: 60%;
+    margin-top: 25%;
+    margin-left: 20%;
+
+
 }
 .sec3{
     border: 1px solid black;
@@ -427,4 +429,210 @@ hr{
     margin-left: 10%;
     border-radius: 20px;
     margin-top: 1%;
+}
+.mat{
+    font-size: 270%;
+    font-weight: bold;
+    margin-left: 20%; 
+    width: 400px;  
+    margin-top: 3%;
+}
+.mat1{
+    font-size: 130%;
+    margin-left: 20%;
+    width: 450px;
+    margin-top: 5%;
+
+}
+.sh{
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+    
+}
+
+.sh img{
+    margin-left: -640%;
+    width: 150px;
+    margin-top: 300%;
+}
+
+.div8{
+    /* border: 1px solid black; */
+    background-color: hsl(195, 100%, 50%);
+    height: 70px;
+    width: 1120px;
+    margin-top: 2%;
+    margin-left: 10%;
+    border-radius: 100px;
+}
+.tm{
+    /* border: 1px solid black; */
+}
+.tm img{
+    width: 50px;
+    height: 50px;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.tm1{
+    margin-top: -3.5%;
+    margin-left: 8%;
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+   
+}
+.tm2{
+    border: 1.5px solid white;
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 83%;
+    margin-top: -2.5%;
+    color: white;
+    font-weight: bold;
+}
+.tm22{
+    margin-top: 3%;
+    margin-left: 15%;
+}
+.tk{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.tk1{
+    border: 1px solid black; 
+    width: 550px;
+    height: 800px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    background-color: #e0f1f4;
+    background-size: cover;
+    background-image: url("https://assetscdn1.paytm.com/images/catalog/view_item/1725638720587.png");
+}
+.tk2{
+    border: 1px solid black;
+    width: 550px;
+    height: 800px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    background-color: #f5fdff;
+}
+
+.bh1 img{
+    width: 150px;
+    margin-top: 12%;
+    margin-left: 8%;
+    
+
+}
+.bh2{
+    font-size: 250%;
+    font-weight: bold;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+.bh3{
+    font-weight: bold;
+    font-size: 250%;
+    color: hsl(195, 100%, 50%);
+    margin-left: 8%;
+
+}
+.bh4{
+    font-size: 120%;
+    margin-left: 8%;
+    margin-top: 3%;
+    
+}
+.mam{
+    display: flex;
+    flex-direction: row;
+}
+.mam2 img{
+    width: 230px;
+    margin-left: 8%;
+    margin-top: 8.5%;
+
+}
+.mam1{
+    border: 1px solid navy;
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    color: navy;
+    margin-left: 8%;
+    margin-top: 4%;
+}
+.mam11{
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.mam3 img{
+    width: 570px;
+    margin-top: 5%;
+}
+
+.an1 img{
+    width: 150px;
+    margin-top: 12%;
+    margin-left: 8%;
+    
+
+}
+.an2{
+    font-size: 250%;
+    font-weight: bold;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+.an3{
+    font-weight: bold;
+    font-size: 250%;
+    color: hsl(195, 100%, 50%);
+    margin-left: 8%;
+
+}
+.an4{
+    font-size: 120%;
+    margin-left: 8%;
+    margin-top: 3%;
+    
+}
+
+.sir1{
+    border: 1px solid navy;
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    color: navy;
+    margin-left: 8%;
+    margin-top: 4%;
+}
+.sir11{
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.sir3 img{
+    width: 570px;
+    margin-top: 5%;
+}
+
+.div9{
+    width: 1120px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 2%;
+    margin-left: 10%;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("https://assetscdn1.paytm.com/images/catalog/view/1752666927695.png");
 }
